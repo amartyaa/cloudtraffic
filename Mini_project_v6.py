@@ -44,6 +44,6 @@ while 1:
 		counter=0
 	print("Counter= %s" % counter)
 	doc_ref_s1.update({
-		u'occupancy': counter
+		u'priority': counter
 		})
 	
