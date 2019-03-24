@@ -4,7 +4,7 @@ from google.cloud import firestore
 import time 
 
 ############Explicit Credential environment
-path="/home/pi/Desktop/shreshthParking.json"
+path="/home/pi/Desktop/Parking.json"
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] =path
 
 #GPIO starts
