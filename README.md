@@ -2,8 +2,7 @@
 > ParkIT is a cloud-enabled, IoT + Mobile application based approach to solve the parking problem in current scenario.
 
 [![Python Version][python-image]][pip-url]
-
-One to two paragraph statement about your product and what it does.
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ![](header.png)
 
@@ -22,14 +21,21 @@ pip install google-cloud-firestore
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+We aim to provide Parking Space to users as well as security of their parkings is also kept in mind.
+Apart from that our main USP is the idea of renting Parking space.
+![](1.JPG)
+
+##Some Screenshots of APP:
+![](Picture1.jpg) ![](Picture2.jpg) ![](Picture3.jpg)
+
 
 
 
 
 
 ## Release History
-
+*Latest Version
+    * Upscaling of Mobile APP as well as Backend for iHack.
 * 0.2.0
     * Removed API keys
 * 0.1.0
