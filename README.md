@@ -30,7 +30,11 @@ Apart from that our main USP is the idea of renting Parking space.
 
 
 
+## CONTRIBUTOR
 
+* Android APP
+    * Shreshth Shrivastava
+      https://github.com/shreshth28
 
 
 ## Release History
