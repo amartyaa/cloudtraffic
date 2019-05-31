@@ -2,7 +2,7 @@
 > ParkIT is a cloud-enabled, IoT + Mobile application based approach to solve the parking problem in current scenario.
 
 [![Python Version][python-image]][pip-url]
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 ![](header.png)
 
@@ -24,8 +24,8 @@ pip install google-cloud-firestore
 BECAUSE MODERN PROBLEMS REQUIRE MODERN SOLUTIONS
 
 ![](1.JPG)
-
-### Some Screenshots from Mobile
+>We use backend running on Raspberry Pi(running on Raspbian Stretch) , Basic Sensors & Camera for Surveillance
+### Some Screenshots from Mobile App
 ![](Picture1.jpg) ![](Picture2.jpg) ![](Picture3.jpg)
 
 
