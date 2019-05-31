@@ -25,7 +25,7 @@ We aim to provide Parking Space to users as well as security of their parkings i
 Apart from that our main USP is the idea of renting Parking space.
 ![](1.JPG)
 
-##Some Screenshots of APP:
+### Some Screenshots from Mobile
 ![](Picture1.jpg) ![](Picture2.jpg) ![](Picture3.jpg)
 
 
@@ -46,7 +46,7 @@ Apart from that our main USP is the idea of renting Parking space.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/amartyaa/cloudtraffic/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
