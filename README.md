@@ -8,7 +8,7 @@
 
 ## Installation
 
-pip:
+Python Installer Package:
 
 ```sh
 pip install google-cloud-firestore
@@ -21,8 +21,8 @@ pip install google-cloud-firestore
 
 ## Usage example
 
-We aim to provide Parking Space to users as well as security of their parkings is also kept in mind.
-Apart from that our main USP is the idea of renting Parking space.
+BECAUSE MODERN PROBLEMS REQUIRE MODERN SOLUTIONS
+
 ![](1.JPG)
 
 ### Some Screenshots from Mobile
