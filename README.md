@@ -34,7 +34,7 @@ Apart from that our main USP is the idea of renting Parking space.
 
 
 ## Release History
-*Latest Version
+* Latest Version
     * Upscaling of Mobile APP as well as Backend for iHack.
 * 0.2.0
     * Removed API keys
